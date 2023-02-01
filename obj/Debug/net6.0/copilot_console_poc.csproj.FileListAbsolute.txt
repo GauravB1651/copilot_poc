@@ -1,0 +1,15 @@
+E:\Study\copilot_console_poc\bin\Debug\net6.0\copilot_console_poc.exe
+E:\Study\copilot_console_poc\bin\Debug\net6.0\copilot_console_poc.deps.json
+E:\Study\copilot_console_poc\bin\Debug\net6.0\copilot_console_poc.runtimeconfig.json
+E:\Study\copilot_console_poc\bin\Debug\net6.0\copilot_console_poc.dll
+E:\Study\copilot_console_poc\bin\Debug\net6.0\copilot_console_poc.pdb
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.csproj.AssemblyReference.cache
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.AssemblyInfoInputs.cache
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.AssemblyInfo.cs
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.csproj.CoreCompileInputs.cache
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.dll
+E:\Study\copilot_console_poc\obj\Debug\net6.0\refint\copilot_console_poc.dll
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.pdb
+E:\Study\copilot_console_poc\obj\Debug\net6.0\copilot_console_poc.genruntimeconfig.cache
+E:\Study\copilot_console_poc\obj\Debug\net6.0\ref\copilot_console_poc.dll
